@@ -1,11 +1,16 @@
 # Pasta `notebooks`
 
-Nesta pasta você deve deixar todos os **NOTEBOOKS** utilizados durante o projeto. Vocês podem criar notebooks para análise exploratória.
+Nessa pasta estão localizados os Notebooks do projeto.
 
-Na entrega final, será necessário adicionar um arquivo `relatorio.ipynb` que será utilizado para avaliação. Utilize o arquivo `relatorio_modelo.ipynb`, que pode ser renomeado ou apagado.
+- **relatorio.ipynb:**
 
-Adicione aqui uma breve descrição dos notebooks.
+Nele contêm todo o código utilizado no projeto, bem como a análise crítica acerca dos resultados do classificador.
 
-Perceba que nesta pasta também estão disponíveis os notebooks que baixam os dados dos sites de notícias.
+- **classificacao_manual.ipynb:**
 
-Sinta-se livre para alterar este `README.md`!
+Nele contêm um código simples para analisar a proporção dos targets nas notícias classificadas.
+
+- **scraping:**
+
+Essa pasta contêm os arquivos utilizados para coletar as notícias dos portais de notícias.
+
