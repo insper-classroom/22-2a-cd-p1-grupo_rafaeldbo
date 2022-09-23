@@ -1,7 +1,3 @@
 # Pasta `data`
 
-Nesta pasta você deve deixar todos os arquivos que servem como **BASE DE DADOS**.
-
-Adicione aqui uma breve descrição dos dados utilizados.
-
-Sinta-se livre para alterar este `README.md`!
+Essa pasta contem a planilha Excel de dados classificada manualmente para a execução do projeto. Ela está divida em *Treinamento* e *Teste*.

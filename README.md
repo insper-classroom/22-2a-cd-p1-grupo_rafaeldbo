@@ -2,12 +2,10 @@
 
 ## Classificador de Notícias - Impacto da Tecnologia na Sociedade
 ____
-### Alunos
+### Alunos:
 
 - Alex Souza Pacchioni
 - Rafael Dourado Bastos de Oliveira
-
-Adicione aqui uma breve descrição do seu projeto, os membros do time e links para os principais arquivos (notebooks ou não) a serem acessados para compreensão do projeto.
 
 ### Descrição do Projeto
 
